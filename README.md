@@ -1,11 +1,11 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm Anshul Kahar
 
-🚀 Full-Stack Developer | Cloud Enthusiast | AI & LLM Explorer  
+🚀 Full-Stack Developer | Build different things    
 
 ---
 
 ## 🏆 About Me
-I am a passionate **Full-Stack Developer** with over **1 year of experience** in building high-performance web and mobile applications. I specialize in creating scalable, efficient, and user-friendly solutions while leveraging cutting-edge technologies. My focus is on **backend architecture, AI integrations, and cloud infrastructure**.
+I am a passionate **Full-Stack Developer** with over **1 year of experience** in building high-performance web and mobile applications. I specialize in creating scalable, efficient, and user-friendly solutions while leveraging cutting-edge technologies. My focus is on **backend architecture, AI integrations, and AWS**.
 
 With a deep understanding of **modern development stacks**, I aim to deliver **robust, scalable, and secure** applications. From designing APIs to deploying microservices on cloud environments, I thrive on solving complex engineering challenges.
 
