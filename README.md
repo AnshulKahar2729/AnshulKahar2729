@@ -1,20 +1,60 @@
-<h1 align="center">Hi 👋, I'm Anshul Kahar</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+# 👋 Hey there, I'm [Your Name]!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulkahar2729&label=Profile%20views&color=0e75b6&style=flat" alt="anshulkahar2729" /> </p>
+🚀 Full-Stack Developer | Cloud Enthusiast | AI & LLM Explorer  
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 💬 Ask me about **Web Development**
+## 🏆 About Me
+I am a passionate **Full-Stack Developer** with over **1 year of experience** in building high-performance web and mobile applications. I specialize in creating scalable, efficient, and user-friendly solutions while leveraging cutting-edge technologies. My focus is on **backend architecture, AI integrations, and cloud infrastructure**.
 
-- 📫 How to reach me **anshulkahar2211@gmail.com**
+With a deep understanding of **modern development stacks**, I aim to deliver **robust, scalable, and secure** applications. From designing APIs to deploying microservices on cloud environments, I thrive on solving complex engineering challenges.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
+## 🛠️ Tech Stack & Expertise
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+### 🔹 Frontend
+- ⚛️ React.js | React Native | ShadCN
+- 🌀 TypeScript | JavaScript (ES6+)
+- 🎨 TailwindCSS | Styled Components
 
+### 🔹 Backend
+- 🟢 Node.js | Express.js | tRPC
+- 🔷 GraphQL | REST APIs
+- 🐳 Docker | Nginx | VPS Deployment
 
+### 🔹 Databases & Storage
+- 🏦 PostgreSQL | MySQL | SQL
+- 🗂️ MongoDB | Supabase
+
+### 🔹 DevOps & Cloud
+- ☁️ AWS | VPS | CI/CD Pipelines
+- 🛠️ Nginx | Serverless Architectures
+
+### 🔹 AI & Machine Learning
+- 🤖 LLM (Large Language Models)
+- 🔍 RAG (Retrieval-Augmented Generation)
+
+### 🔹 Programming Languages
+- 💻 TypeScript | JavaScript
+- 🦫 Go (Golang)
+
+---
+
+## 🔥 What I Love Working On:
+✅ Building scalable web & mobile applications  
+✅ Creating high-performance APIs & microservices  
+✅ Deploying & optimizing cloud-based applications  
+✅ Exploring AI-driven solutions with LLM & RAG  
+✅ Continuous learning & contributing to open-source projects  
+
+---
+
+## 📫 Let's Connect!
+💼 [LinkedIn](#) | 🐦 [Twitter](#) | 🌎 [Portfolio](#) | 📧 Email: your.email@example.com  
+
+Feel free to reach out—I'm always up for tech discussions, collaborations, or exciting projects! 🚀  
+
+---
+
+⭐ **_"Code, Innovate, Deploy, Repeat!"_** 🚀
