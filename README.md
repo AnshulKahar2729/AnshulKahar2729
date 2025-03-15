@@ -51,7 +51,7 @@ With a deep understanding of **modern development stacks**, I aim to deliver **r
 ---
 
 ## 📫 Let's Connect!
-💼 [LinkedIn](#https://www.linkedin.com/in/anshul-kahar) | 🐦 [Twitter](#) | 🌎 [Portfolio](#) | 📧 Email: anshulkahar2211@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/anshul-kahar) | 🐦 [Twitter](https://x.com/AnshulKahar2729) | 🌎 [Portfolio](https://anshuldev.tech/) | 📧 Email: anshulkahar2211@gmail.com  
 
 Feel free to reach out—I'm always up for tech discussions, collaborations, or exciting projects! 🚀  
 
