@@ -1,60 +1,34 @@
-# 👋 Hey there, I'm Anshul Kahar
+# Anshul Kahar
 
-🚀 Full-Stack Developer | Build different things    
+React & React Native Engineer building production web and mobile applications, with backend and AI experience.
 
----
+## Focus
 
-## 🏆 About Me
-I am a passionate **Full-Stack Developer** with over **1 year of experience** in building high-performance web and mobile applications. I specialize in creating scalable, efficient, and user-friendly solutions while leveraging cutting-edge technologies. My focus is on **backend architecture, AI integrations, and AWS**.
+* React / React Native architecture and performance
+* TypeScript-first development
+* State management, rendering optimization, and scalable component design
+* Integrating backend services and AI workflows into real products
 
-With a deep understanding of **modern development stacks**, I aim to deliver **robust, scalable, and secure** applications. From designing APIs to deploying microservices on cloud environments, I thrive on solving complex engineering challenges.
+## Experience With
 
----
+* Node.js / Express / tRPC (API design, auth, data flow)
+* PostgreSQL / MongoDB (schema design, query optimization)
+* LLM integrations (RAG, structured outputs, cost & latency awareness)
 
-## 🛠️ Tech Stack & Expertise
+## Stack
 
-### 🔹 Frontend
-- ⚛️ React.js | React Native | ShadCN
-- 🌀 TypeScript | JavaScript (ES6+)
-- 🎨 TailwindCSS | Styled Components
+React • React Native • TypeScript
+Node.js • PostgreSQL • MongoDB
+LLMs • RAG
 
-### 🔹 Backend
-- 🟢 Node.js | Express.js | tRPC
-- 🔷 GraphQL | REST APIs
-- 🐳 Docker | Nginx | VPS Deployment
+## Interests
 
-### 🔹 Databases & Storage
-- 🏦 PostgreSQL | MySQL | SQL
-- 🗂️ MongoDB | Supabase
+* React Native internals & New Architecture
+* Real-time and data-heavy apps
+* Practical AI in production
 
-### 🔹 DevOps & Cloud
-- ☁️ AWS | VPS | CI/CD Pipelines
-- 🛠️ Nginx | Serverless Architectures
+## Links
 
-### 🔹 AI & Machine Learning
-- 🤖 LLM (Large Language Models)
-- 🔍 RAG (Retrieval-Augmented Generation)
-
-### 🔹 Programming Languages
-- 💻 TypeScript | JavaScript
-- 🦫 Go (Golang)
-
----
-
-## 🔥 What I Love Working On:
-✅ Building scalable web & mobile applications  
-✅ Creating high-performance APIs & microservices  
-✅ Deploying & optimizing cloud-based applications  
-✅ Exploring AI-driven solutions with LLM & RAG  
-✅ Continuous learning & contributing to open-source projects  
-
----
-
-## 📫 Let's Connect!
-💼 [LinkedIn](https://www.linkedin.com/in/anshul-kahar) | 🐦 [Twitter](https://x.com/AnshulKahar2729) | 🌎 [Portfolio](https://anshuldev.tech/) | 📧 Email: anshulkahar2211@gmail.com  
-
-Feel free to reach out—I'm always up for tech discussions, collaborations, or exciting projects! 🚀  
-
----
-
-⭐ **_"Code, Innovate, Deploy, Repeat!"_** 🚀
+Portfolio: [https://anshuldev.tech](https://anshuldev.tech)
+LinkedIn: [https://www.linkedin.com/in/anshul-kahar](https://www.linkedin.com/in/anshul-kahar)
+Email: [anshulkahar2211@gmail.com](mailto:anshulkahar2211@gmail.com)
