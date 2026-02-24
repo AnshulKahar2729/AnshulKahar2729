@@ -5,8 +5,6 @@ React & React Native Engineer building production web and mobile applications, w
 ## Focus
 
 * React / React Native architecture and performance
-* TypeScript-first development
-* State management, rendering optimization, and scalable component design
 * Integrating backend services and AI workflows into real products
 
 ## Experience With
